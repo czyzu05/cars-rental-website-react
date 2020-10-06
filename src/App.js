@@ -8,7 +8,7 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route path="/" exact component={Navbar} />
+          <Route path="/" component={Navbar} />
         </Switch>
       </Router>
     </>
