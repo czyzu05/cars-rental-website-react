@@ -9,7 +9,7 @@ import img5 from "../../assets/images/img-8.jpg";
 const Cards = () => {
   return (
     <div className="cards">
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Check out our cars!</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
@@ -17,13 +17,13 @@ const Cards = () => {
               src={img1}
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
-              path="/services"
+              path="/"
             />
             <CardItem
               src={img2}
               text="Travel through the Islands of Bali in a Pravate Cruise"
               label="Luxury"
-              path="/services"
+              path="/"
             />
           </ul>
           <ul className="cards__items">
@@ -31,19 +31,19 @@ const Cards = () => {
               src={img3}
               text="Set Sail in the Atlantic Ocean visiting uncharted waters"
               label="Mystery"
-              path="/services"
+              path="/"
             />
             <CardItem
               src={img4}
               text="Experience Football on Top of the Mountain"
               label="Adventure"
-              path="/products"
+              path="/"
             />
             <CardItem
               src={img5}
               text="Ride through the Sahara Desert on a guide camel tour"
               label="Adrenaline"
-              path="/sign-up"
+              path="/"
             />
           </ul>
         </div>
