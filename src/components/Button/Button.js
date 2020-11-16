@@ -5,7 +5,10 @@ import "./Button.css";
 
 const Button = ({ children, type, onClick, buttonStyle, buttonSize }) => {
   return (
-    <Link to="/contact" className="btn-mobile">
+    <Link
+      to={`/${children === "fleet" ? "fleet" : "contact"}`}
+      className="btn-mobile"
+    >
       <button
         className={`btn ${buttonStyle} ${buttonSize}`}
         onClick={onClick}

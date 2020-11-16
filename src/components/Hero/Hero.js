@@ -5,7 +5,6 @@ import "./Hero.css";
 const Hero = () => {
   return (
     <div className="hero-container">
-      <video src="/videos/video-2.mp4" autoPlay loop muted />
       <h1>Cars available immediately</h1>
       <p>What will be your choice?</p>
       <div className="hero-btns">
@@ -15,7 +14,7 @@ const Hero = () => {
           buttonSize="btn--large"
           type="button"
         >
-          Fleet
+          fleet
         </Button>
         <Button
           className="btns"
@@ -23,7 +22,7 @@ const Hero = () => {
           buttonSize="btn--large"
           type="button"
         >
-          Contact
+          contact
         </Button>
       </div>
     </div>

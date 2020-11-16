@@ -1,11 +1,11 @@
 import React from "react";
 import CardItem from "../CardItem/CardItem";
 import "./Cards.css";
-import img1 from "../../assets/images/img-9.jpg";
+import img1 from "../../assets/images/img-1.jpg";
 import img2 from "../../assets/images/img-2.jpg";
 import img3 from "../../assets/images/img-3.jpg";
 import img4 from "../../assets/images/img-4.jpg";
-import img5 from "../../assets/images/img-8.jpg";
+import img5 from "../../assets/images/img-5.jpg";
 const Cards = () => {
   return (
     <div className="cards">
@@ -15,34 +15,34 @@ const Cards = () => {
           <ul className="cards__items">
             <CardItem
               src={img1}
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
+              text="Explore hidden streets with the best cars"
               label="Adventure"
               path="/"
             />
             <CardItem
               src={img2}
-              text="Travel through the Islands of Bali in a Pravate Cruise"
-              label="Luxury"
+              text="Travel with your family in a safe way"
+              label="Family"
               path="/"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
               src={img3}
-              text="Set Sail in the Atlantic Ocean visiting uncharted waters"
-              label="Mystery"
+              text="Do you want to go out in the field? You will certainly find something for yourself!"
+              label="Off-road"
               path="/"
             />
             <CardItem
               src={img4}
-              text="Experience Football on Top of the Mountain"
-              label="Adventure"
+              text="Check v-max of our supercars"
+              label="Sports-car"
               path="/"
             />
             <CardItem
               src={img5}
-              text="Ride through the Sahara Desert on a guide camel tour"
-              label="Adrenaline"
+              text="If comfort is your priority, choose a Bentley from our offer"
+              label="Luxury"
               path="/"
             />
           </ul>
