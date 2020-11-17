@@ -10,6 +10,10 @@ Fully responsive Single Page Application for cars rental.
 - React
 - Responsive Web Design
 
+## Screens
+
+![main screen](./src/assets/images/main.png)
+
 ## Setup
 
 - Clone down this repository. You will need node and npm installed globally on your machine.

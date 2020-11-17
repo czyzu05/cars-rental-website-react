@@ -9,7 +9,7 @@ import img5 from "../../assets/images/img-5.jpg";
 const Cards = () => {
   return (
     <div className="cards">
-      <h1>Check out our cars!</h1>
+      <h1>Check our cars!</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
