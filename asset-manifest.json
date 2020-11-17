@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cars-rental-website-react/static/css/main.0f87f420.chunk.css",
-    "main.js": "/cars-rental-website-react/static/js/main.c4d01679.chunk.js",
-    "main.js.map": "/cars-rental-website-react/static/js/main.c4d01679.chunk.js.map",
+    "main.js": "/cars-rental-website-react/static/js/main.0f4e9e0e.chunk.js",
+    "main.js.map": "/cars-rental-website-react/static/js/main.0f4e9e0e.chunk.js.map",
     "runtime-main.js": "/cars-rental-website-react/static/js/runtime-main.c8dab87d.js",
     "runtime-main.js.map": "/cars-rental-website-react/static/js/runtime-main.c8dab87d.js.map",
     "static/js/2.1da6bb78.chunk.js": "/cars-rental-website-react/static/js/2.1da6bb78.chunk.js",
     "static/js/2.1da6bb78.chunk.js.map": "/cars-rental-website-react/static/js/2.1da6bb78.chunk.js.map",
     "index.html": "/cars-rental-website-react/index.html",
-    "precache-manifest.19d27a7fcf1d6a332b07a87a4058f488.js": "/cars-rental-website-react/precache-manifest.19d27a7fcf1d6a332b07a87a4058f488.js",
+    "precache-manifest.cec827ca19d2f8a13bfc7ddc44105914.js": "/cars-rental-website-react/precache-manifest.cec827ca19d2f8a13bfc7ddc44105914.js",
     "service-worker.js": "/cars-rental-website-react/service-worker.js",
     "static/css/main.0f87f420.chunk.css.map": "/cars-rental-website-react/static/css/main.0f87f420.chunk.css.map",
     "static/js/2.1da6bb78.chunk.js.LICENSE.txt": "/cars-rental-website-react/static/js/2.1da6bb78.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.c8dab87d.js",
     "static/js/2.1da6bb78.chunk.js",
     "static/css/main.0f87f420.chunk.css",
-    "static/js/main.c4d01679.chunk.js"
+    "static/js/main.0f4e9e0e.chunk.js"
   ]
 }
