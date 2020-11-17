@@ -61,14 +61,14 @@ const Footer = () => {
       <section className="social-media">
         <div className="social-media-wrap">
           <div className="footer-logo">
-            <Link to="/" className="social-logo">
+            <Link to="/cars-rental-website-react" className="social-logo">
               RENT-CAR
             </Link>
           </div>
           <small className="website-rights">&copy; 2020</small>
           <div className="social-icons">
             <Link
-              to="/"
+              to="/cars-rental-website-react"
               target="_blank"
               aria-label="Facebook"
               className="social-icon-link facebook"
@@ -76,7 +76,7 @@ const Footer = () => {
               <i className="fab fa-facebook"></i>
             </Link>
             <Link
-              to="/"
+              to="/cars-rental-website-react"
               target="_blank"
               aria-label="Instagram"
               className="social-icon-link instagram"
@@ -84,7 +84,7 @@ const Footer = () => {
               <i className="fab fa-instagram"></i>
             </Link>
             <Link
-              to="/"
+              to="/cars-rental-website-react"
               target="_blank"
               aria-label="Twitter"
               className="social-icon-link twitter"
@@ -92,7 +92,7 @@ const Footer = () => {
               <i className="fab fa-twitter"></i>
             </Link>
             <Link
-              to="/"
+              to="/cars-rental-website-react"
               target="_blank"
               aria-label="LinkedIn"
               className="social-icon-link linkedin"

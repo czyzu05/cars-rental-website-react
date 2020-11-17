@@ -17,13 +17,13 @@ const Cards = () => {
               src={img1}
               text="Explore hidden streets with the best cars"
               label="Adventure"
-              path="/"
+              path="/cars-rental-website-react"
             />
             <CardItem
               src={img2}
               text="Travel with your family in a safe way"
               label="Family"
-              path="/"
+              path="/cars-rental-website-react"
             />
           </ul>
           <ul className="cards__items">
@@ -31,19 +31,19 @@ const Cards = () => {
               src={img3}
               text="Do you want to go out in the field? You will certainly find something for yourself!"
               label="Off-road"
-              path="/"
+              path="/cars-rental-website-react"
             />
             <CardItem
               src={img4}
               text="Check v-max of our supercars"
               label="Sports-car"
-              path="/"
+              path="/cars-rental-website-react"
             />
             <CardItem
               src={img5}
               text="If comfort is your priority, choose a Bentley from our offer"
               label="Luxury"
-              path="/"
+              path="/cars-rental-website-react"
             />
           </ul>
         </div>
