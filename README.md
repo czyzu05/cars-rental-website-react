@@ -19,8 +19,6 @@ Fully responsive Single Page Application for cars rental.
 ![main screen](./src/assets/images/main.png)
 ![section screen](./src/assets/images/section.png)
 ![footer screen](./src/assets/images/footer.png)
-![main screen mobile](./src/assets/images/mobile-screen-main.png)
-![section screen mobile](./src/assets/images/mobile-screen-section.png)
 
 ## Setup
 
